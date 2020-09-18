@@ -1,6 +1,5 @@
 import React, { useState, useEffect, Suspense, lazy } from 'react'
 import Tour, { Navigation, Dot, Controls, Arrow } from '../index'
-import 'focus-outline-manager'
 import { GlobalStyle } from './../style'
 import Demo from './Demo'
 import Text from './Text'
